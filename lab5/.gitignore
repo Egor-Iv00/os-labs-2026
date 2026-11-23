@@ -1,2 +1,5 @@
 boot.o
+boot.bin
+maze.o
+maze.bin
 os.img
